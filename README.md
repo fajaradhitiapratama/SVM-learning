@@ -2,6 +2,16 @@
 
 This repository contains Python code to compare the performance of SVM kernels (linear, RBF, polynomial) on a dataset with different preprocessing techniques (Normalizer, MinMaxScaler, StandardScaler, RobustScaler) and different test sizes (0.3 and 0.2).
 
+## Contributors
+This project was developed by:
+
+- Alfiah Zalfa Tsabitah
+- Fajar Adhitia Pratama
+- Immanuel Putra Timothy Tambun
+- Muhammad Harits Rahman
+- Nurfadhilah Putri Bumi
+- Shafa Tanaya Paramesti
+
 ## Prerequisites
 
 Make sure you have the following libraries installed:
@@ -36,12 +46,4 @@ Classification Report:
 
 ...
 
-# Contributors
-This project was developed by:
 
-- Alfiah Zalfa Tsabitah
-- Fajar Adhitia Pratama
-- Immanuel Putra Timothy Tambun
-- Muhammad Harits Rahman
-- Nurfadhilah Putri Bumi
-- Shafa Tanaya Paramesti

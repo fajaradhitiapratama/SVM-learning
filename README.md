@@ -10,7 +10,7 @@ Make sure you have the following libraries installed:
 - `scikit-learn`
 - `matplotlib`
 
-##Example Output
+## Example Output
 You should see output similar to the following:
 
 Results for Scaler: Normalizer, Test Size: 0.3:
@@ -35,12 +35,12 @@ Confusion Matrix:
 
 ...
 
-#Contributors
+# Contributors
 This project was developed by:
 
-Alfiah Zalfa Tsabitah
-Fajar Adhitia Pratama
-Immanuel Putra Timothy Tambun
-Muhammad Harits Rahman
-Nurfadhilah Putri Bumi
-Shafa Tanaya Paramesti
+- Alfiah Zalfa Tsabitah
+- Fajar Adhitia Pratama
+- Immanuel Putra Timothy Tambun
+- Muhammad Harits Rahman
+- Nurfadhilah Putri Bumi
+- Shafa Tanaya Paramesti

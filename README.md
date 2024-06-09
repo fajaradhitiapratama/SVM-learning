@@ -10,11 +10,9 @@ Make sure you have the following libraries installed:
 - `scikit-learn`
 - `matplotlib`
 
-Example Output
+##Example Output
 You should see output similar to the following:
 
-lua
-Copy code
 Results for Scaler: Normalizer, Test Size: 0.3:
 
 Rbf Kernel
@@ -37,7 +35,7 @@ Confusion Matrix:
 
 ...
 
-Contributors
+#Contributors
 This project was developed by:
 
 Alfiah Zalfa Tsabitah

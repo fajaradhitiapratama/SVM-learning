@@ -18,14 +18,15 @@ Results for Scaler: Normalizer, Test Size: 0.3:
 Rbf Kernel
 Accuracy: 0.85
 Classification Report:
-               precision    recall  f1-score   support
+               
+                 precision    recall    f1-score    support
 
-           0       0.87      0.85      0.86        55
-           1       0.84      0.86      0.85        55
+           0        0.87      0.85       0.86        55
+           1        0.84      0.86       0.85        55
 
-    accuracy                           0.85       110
-   macro avg       0.85      0.85      0.85       110
-weighted avg       0.85      0.85      0.85       110
+    accuracy                            0.85        110
+    macro avg       0.85      0.85      0.85        110
+    weighted avg    0.85      0.85      0.85        110
 
 Confusion Matrix:
  [[47  8]
